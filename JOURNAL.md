@@ -31,3 +31,27 @@ I decided to go with a 860nm wavelength, mainly because it was easier. If they o
 
 >I finally found it!!   
 
+## 10/8/2025 - Found a display.  
+
+## Log
+
+Yesterday, I found a display to use! After a lot of research and decision, and with a great tip from slack user `Rudy` I went to aliexpress. This was my first time shopping for something there, and **BOY** was it a experience. After many cheap and good displays flirting the 3pc max at me, I was able to find a kit from the YouKeyi store that had 4. I went ahead and bought it because it was only 99 cents and it looked like it was gonna price hike. (4.35 dolla saved for hq lol)
+
+## Specs
+
+Size: 1.8 inch diagonally.
+Resolution: To not buy from aliexpress again
+Screen: In front of your eyes
+Pins: 8
+Pixels: 128x168=20480
+Controller: ST7735S
+
+### Real data sheet
+
+![Screenshot from 2025-10-08 08-31-40.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA0NywicHVyIjoiYmxvYl9pZCJ9fQ==--86a268563642ca301e045e8b91b43734e2bae25f/Screenshot%20from%202025-10-08%2008-31-40.png)
+
+## Final notes:
+
+Please bear with me as I figure out markdown, It will be different almost every time, as I develop a style I like.
+  
+
