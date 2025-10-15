@@ -55,3 +55,16 @@ Controller: ST7735S
 Please bear with me as I figure out markdown, It will be different almost every time, as I develop a style I like.
   
 
+## 10/15/2025 - Changed it up!  
+
+## Log
+
+Today I changed it up! I decided to switch to the `SFH 4550` Led, it ended up being much more powerful and actually cheaper. I also decided to change the raspberry pi pico to a pico w, it would save a good bit of money, and makes team management easier! For the receiver I went with a `TSOP2256-ND` because it works with the OpenLaserTag modulation system. I wanted all the systems to be wireless, so I am going to get a `TP4056` from addicore, It ended up being cheap and had good protection for the battery. I learned that I should probably use a lens to focus the led. I went with a lens that was 20mm diameter, and 200mm focus length. This will help make the beam less large. With a calculation from ChatGPT, at 50m, the beam would only be 1.25m diameter. 
+
+### Photo
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--013dd97ba0409e56aef69b17e4bc7e1d2b91d469/image.png)
+
+> I know it's probably frowned upon, but I used chatgpt to calculate spot distances. Why? I didn't want to learn physics and trigonometry at the same time. 
+
+  
+
